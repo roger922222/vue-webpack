@@ -1,0 +1,13 @@
+# product path
+dist
+
+# webpack path
+webpack.config.dev.js
+webpack.config.prod.js
+check-versions.js
+server.js
+date.js
+server1.js
+
+# js
+node_modules
